@@ -12,4 +12,4 @@ Members
 8. They Kai Zhe
 9. Chai Hing Jie
 
-<img src="fig/Screenshot from 2022-12-06 16-51-26.png" width="128"/>
+<img src="fig/Screenshot from 2022-12-06 16-51-26.png" width="1080"/>
