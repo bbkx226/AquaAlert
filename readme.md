@@ -1,5 +1,5 @@
-## OCEANHACKATHON
-### Team 8
+## OCEANHACKATHON KL 2022
+### Team 8: arly warning system to address water pollution
 
 Members
 1. Dr. Abe Woo (Challenge owner)
